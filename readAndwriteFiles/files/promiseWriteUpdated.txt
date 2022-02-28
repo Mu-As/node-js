@@ -1,0 +1,3 @@
+Hello, I'm MuAs and working on NodeJS file-system operations.
+
+Hello from the append function.
